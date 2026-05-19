@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Resume</title>
+    <title>Shashank Kumar Resume</title>
 
     <style>
         *{
@@ -92,7 +92,7 @@
 
         <!-- Header -->
         <div class="header">
-            <h1>Your Name</h1>
+            <h1>Shashank Kumar</h1>
             <p>Student | Web Developer | Programmer</p>
         </div>
 
@@ -109,8 +109,9 @@
         <!-- Education -->
         <div class="section">
             <h2>Education</h2>
+
             <p><strong>B.Tech in Computer Science</strong></p>
-            <p>Your College Name</p>
+            <p>Kalinga Institute of Industrial Technology (KIIT)</p>
             <p>2023 - 2027</p>
         </div>
 
@@ -162,7 +163,7 @@
 
         <!-- Footer -->
         <div class="footer">
-            <p>© 2026 Your Name. All Rights Reserved.</p>
+            <p>© 2026 Shashank Kumar. All Rights Reserved.</p>
         </div>
 
     </div>
