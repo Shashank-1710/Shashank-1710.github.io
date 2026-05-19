@@ -112,7 +112,7 @@
 
             <p><strong>B.Tech in Computer Science</strong></p>
             <p>Kalinga Institute of Industrial Technology (KIIT)</p>
-            <p>2023 - 2027</p>
+            <p>2024 - 2027</p>
         </div>
 
         <!-- Skills -->
@@ -155,8 +155,8 @@
         <div class="section contact">
             <h2>Contact</h2>
 
-            <p>Email: yourmail@gmail.com</p>
-            <p>Phone: +91 XXXXXXXXXX</p>
+            <p>Email: gtshashank650@gmail.com</p>
+            <p>Phone: +91 7294874323</p>
             <p>LinkedIn: linkedin.com/in/yourprofile</p>
             <p>GitHub: github.com/yourusername</p>
         </div>
